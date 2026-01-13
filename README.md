@@ -1,8 +1,8 @@
 # Hi, I’m Vinay 👋
 
-A Computer Science undergraduate with a strong interest in **building reliable, real-world web applications** and understanding how systems work end to end.
+I’m a Computer Science undergraduate who enjoys **turning ideas into working web applications** and understanding what happens behind the scenes once code goes into production.
 
-I enjoy working across the stack — from crafting clean user interfaces to designing backend APIs and data flows that make applications scale and stay maintainable.
+I like working across the stack — building interfaces that feel clean and intuitive, and backing them with APIs and data layers that are structured, efficient, and easy to extend.
 
 ---
 
@@ -10,25 +10,25 @@ I enjoy working across the stack — from crafting clean user interfaces to desi
 
 🎓 B.Tech Computer Science (2024–2028)  
 📍 India  
-💻 Full-stack web developer  
+💻 Aspiring full-stack developer  
 
-I focus on:
-- Writing **clean, readable, and maintainable code**
-- Building **production-style full-stack applications**
-- Strengthening fundamentals through **hands-on problem solving**
-- Continuously improving backend and system-level understanding
+What I care about:
+- Writing code that’s **simple, readable, and easy to maintain**
+- Creating **end-to-end web applications** that resemble real production systems
+- Improving problem-solving skills through consistent practice
+- Building a strong foundation in backend and system concepts
 
 ---
 
-## 🚀 What I’m Currently Working On
+## 🚀 What I’m Focused On Right Now
 
-- Developing and refining **full-stack web applications**
-- Deepening **backend fundamentals**
-  - REST APIs
-  - Authentication & authorization
-  - Database design & data modeling
-- Practicing **Data Structures & Algorithms**
-- Learning **scalable and maintainable application architecture**
+- Actively building **full-stack projects** from scratch
+- Getting better at **backend development**
+  - Designing RESTful APIs
+  - Implementing authentication flows
+  - Structuring databases effectively
+- Practicing **DSA** to improve logic and thinking
+- Learning how to design applications that remain **scalable and easy to maintain** over time
 
 ---
 
