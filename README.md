@@ -72,6 +72,13 @@ What I care about:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
+### 🧠 Deep Learning & NLP Concepts
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF6F00?style=for-the-badge)
+![RNN](https://img.shields.io/badge/RNN-6A1B9A?style=for-the-badge)
+![TF--IDF](https://img.shields.io/badge/TF--IDF-00897B?style=for-the-badge)
+![Encoding](https://img.shields.io/badge/Encoding-3949AB?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-283593?style=for-the-badge)
+
 ---
 
 ## 🧠 How I Approach Learning
